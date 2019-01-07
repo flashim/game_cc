@@ -36,10 +36,10 @@ body {
 
 #wrapper_parent {
     position: relative;
-    width: 993px;
-    height: 610px;
     overflow: hidden;
     margin: 0 auto;
+    width: 993px;
+    height: 610px;
     -webkit-transform-origin: 0% 0%;
     -moz-transform-origin: 0% 0%;
     -ms-transform-origin: 0% 0%;
